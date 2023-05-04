@@ -165,7 +165,8 @@ header{
     }
 
     .header .logo{
-        width: 40%;
+        height: 90%;
+        margin-left: -2rem;
     }
 
     .navbar{
